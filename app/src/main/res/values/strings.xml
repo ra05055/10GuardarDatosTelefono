@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuardarDatosTelefono</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_agregar">AgregarActivity</string>
+    <string name="title_activity_ver">VerActivity</string>
+</resources>
